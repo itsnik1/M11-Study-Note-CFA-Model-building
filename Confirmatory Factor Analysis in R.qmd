@@ -463,4 +463,4 @@ UCLA Office of Advanced Research Computing. (n.d.). *Confirmatory Factor Analysi
 # Appendix
 
 - [GitHub Repo](https://github.com/itsnik1/M11-Study-Note-CFA-Model-building)
-- Published GHPages Page
+- [Published GHPages Page](https://itsnik1.github.io/M11-Study-Note-CFA-Model-building/)
